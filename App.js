@@ -5,7 +5,11 @@ import {TikiHome} from './src/tiki-home';
 const App = () => {
   return (
     <>
-      <StatusBar translucent backgroundColor="transparent" />
+      <StatusBar
+        translucent
+        backgroundColor="transparent"
+        barStyle={'light-content'}
+      />
       <TikiHome />
     </>
   );
