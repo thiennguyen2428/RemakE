@@ -6,6 +6,7 @@ import {
   LOGO_HEIGHT,
   Padding,
 } from '../../theme';
+import {FullWidthSwipeContainer} from '../swiper';
 
 const CONTAINER_OVERLAP_TOP = Math.round(
   HOME_BANNER_WIDTH / HOME_BANNER_ASPECT_RATIO / 2 -
@@ -22,5 +23,9 @@ const MainStyle = StyleSheet.create({
 });
 
 export const Main = () => {
-  return <View style={MainStyle.container} />;
+  return (
+    <View style={MainStyle.container}>
+      <FullWidthSwipeContainer />
+    </View>
+  );
 };
