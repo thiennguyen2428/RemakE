@@ -2,6 +2,8 @@ import {Dimensions} from 'react-native';
 
 const paddingBase = 8;
 
+const TextSizeBase = 16;
+
 export const Padding = {
   small: paddingBase / 2,
   base: paddingBase,
@@ -11,7 +13,9 @@ export const Padding = {
 };
 
 export const TextSize = {
-  normal: 16,
+  xsmal: TextSizeBase - 2,
+  small: TextSizeBase - 1,
+  normal: TextSizeBase,
 };
 
 export const LOGO_WIDTH = 50;
