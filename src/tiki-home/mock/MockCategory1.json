@@ -54,53 +54,5 @@
     "authentication": false,
     "web_url": "",
     "image_url": "https://salt.tikicdn.com/ts/upload/81/f2/80/c130002f1ffd5c1131812366d502e36a.png"
-  },
-  {
-    "title": "Danh mục",
-    "content": "",
-    "url": "tikivn://categories",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/ec/a9/8e/3040afd931ce300038790ce6c9ad4f76.png"
-  },
-  {
-    "title": "FREESHIP",
-    "content": "",
-    "url": "https://tiki.vn/chuong-trinh/tikinow-uu-dai-tiet-kiem",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/ce/ee/fe/a8a350727b38a1e20ce1610c5162fcb7.png"
-  },
-  {
-    "title": "Bách hoá online",
-    "content": "",
-    "url": "https://tiki.vn/bach-hoa-online/c4384",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/0b/68/92/c5366849dc64b513569947c111117d8f.png"
-  },
-  {
-    "title": "Tươi sống",
-    "content": "",
-    "url": "tikivn://tikingon",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/a0/0d/90/bab67b6da67117f40538fc54fb2dcb5e.png"
-  },
-  {
-    "title": "Ưu đãi đối tác",
-    "content": "",
-    "url": "https://tiki.vn/chuong-trinh/uu-dai-doi-tac",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/4a/b2/c5/b388ee0e511889c83fab1217608fe82f.png"
-  },
-  {
-    "title": "Tiện ích",
-    "content": "",
-    "url": "https://tiki.vn/dich-vu-tien-ich",
-    "authentication": false,
-    "web_url": "",
-    "image_url": "https://salt.tikicdn.com/ts/upload/f2/5f/22/dae57676693b7665b734e36c5fb69809.png"
   }
 ]

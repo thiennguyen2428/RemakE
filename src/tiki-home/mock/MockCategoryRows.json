@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "title": "Mã giảm giá",
+      "content": "",
+      "url": "https://tiki.vn/chuong-trinh/ma-giam-gia",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/73/50/e1/83afc85db37c472de60ebef6eceb41a7.png"
+    },
+    {
+      "title": "Deal 0đ",
+      "content": "",
+      "url": "https://tiki.vn/chuong-trinh/deal-0-dong-chao-ban-moi",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/79/76/e8/f09488f10ea645f4ccbac28ae20e8f9e.png"
+    },
+    {
+      "title": "Săn thưởng",
+      "content": "",
+      "url": "tikivn://rewards",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/db/1e/2d/e8a696bc2d4f8684994189f0e64b1275.png"
+    },
+    {
+      "title": "Hoàn tiền 15%",
+      "content": "",
+      "url": "https://tiki.vn/chuong-trinh/mo-the-tikicard",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/52/50/73/0788d5207ec8b82e05859dfe953a4327.png"
+    },
+    {
+      "title": "Giá sốc",
+      "content": "",
+      "url": "tikivn://hot-deal",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/e7/32/e2/c6a50df6d04cf212dcbda300e3cb8654.png"
+    },
+    {
+      "title": "Giải trí",
+      "content": "",
+      "url": "https://tiki.vn/ticketbox",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/58/26/1b/b98f5fc231b4505700bf7da5481fedad.png"
+    },
+    {
+      "title": "TikiLIVE",
+      "content": "TikiLIVE",
+      "url": "tikivn://live",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/81/f2/80/c130002f1ffd5c1131812366d502e36a.png"
+    }
+  ],
+  [
+    {
+      "title": "Danh mục",
+      "content": "",
+      "url": "tikivn://categories",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/ec/a9/8e/3040afd931ce300038790ce6c9ad4f76.png"
+    },
+    {
+      "title": "FREESHIP",
+      "content": "",
+      "url": "https://tiki.vn/chuong-trinh/tikinow-uu-dai-tiet-kiem",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/ce/ee/fe/a8a350727b38a1e20ce1610c5162fcb7.png"
+    },
+    {
+      "title": "Bách hoá online",
+      "content": "",
+      "url": "https://tiki.vn/bach-hoa-online/c4384",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/0b/68/92/c5366849dc64b513569947c111117d8f.png"
+    },
+    {
+      "title": "Tươi sống",
+      "content": "",
+      "url": "tikivn://tikingon",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/a0/0d/90/bab67b6da67117f40538fc54fb2dcb5e.png"
+    },
+    {
+      "title": "Ưu đãi đối tác",
+      "content": "",
+      "url": "https://tiki.vn/chuong-trinh/uu-dai-doi-tac",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/4a/b2/c5/b388ee0e511889c83fab1217608fe82f.png"
+    },
+    {
+      "title": "Tiện ích",
+      "content": "",
+      "url": "https://tiki.vn/dich-vu-tien-ich",
+      "authentication": false,
+      "web_url": "",
+      "image_url": "https://salt.tikicdn.com/ts/upload/f2/5f/22/dae57676693b7665b734e36c5fb69809.png"
+    }
+  ]
+]
